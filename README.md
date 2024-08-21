@@ -1,6 +1,7 @@
 <h1>sejam bem-vindos ao meu GitHub</h1>
 
 <h2>sobre mim: </h2>
+Meu nome é Gabriela Almeida, tenho 16 anos, sou uma estudande do ensino medio, no segundo ano e faço curso tecnico de desenvolvimento de sistemas na escola e publicidade no senac, moro no estado de São Paulo e pratico jiu-jítsu no tempo livre. Pretendo fazer faculdade e trabalhar em ciencias de dados e ciencias da computução quando sair da escola.
 
 <!--
 **Gabii88/Gabii88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
